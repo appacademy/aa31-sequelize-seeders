@@ -1,0 +1,1 @@
+# aa31-sequelize-seeders
